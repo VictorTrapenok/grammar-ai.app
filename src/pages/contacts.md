@@ -55,10 +55,10 @@ description: How to contact the Grammar AI support team
 
 #### 📧 Email Support
 
-- [General inquiries](https://github.com/digital-containment/malo/issues)
-- [Technical issues](https://github.com/digital-containment/malo/issues)
-- [Bug reports](https://github.com/digital-containment/malo/issues)
-- [Suggestions for improvement](https://github.com/digital-containment/malo/issues)
+- [General inquiries](https://github.com/VictorTrapenok/grammar-ai.app/issues)
+- [Technical issues](https://github.com/VictorTrapenok/grammar-ai.app/issues)
+- [Bug reports](https://github.com/VictorTrapenok/grammar-ai.app/issues)
+- [Suggestions for improvement](https://github.com/VictorTrapenok/grammar-ai.app/issues)
 
 **⏱️ Response time:**
 
