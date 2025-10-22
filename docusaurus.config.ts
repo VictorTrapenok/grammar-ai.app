@@ -84,7 +84,7 @@ const config: Config = {
       title: "Grammar AI",
       logo: {
         alt: "Grammar AI Application",
-        src: "img/logo.webp",
+        src: "img/logo.svg",
       },
       items: [
         { to: "/#about", label: "About", position: "left" },

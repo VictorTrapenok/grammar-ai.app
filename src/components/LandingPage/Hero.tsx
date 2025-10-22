@@ -22,7 +22,7 @@ export default function Hero(): JSX.Element {
 
           {/* Right column with app mockup */}
           <div className={styles.heroImage}>
-            <img src={useBaseUrl("/img/app-mockup.png")} alt="Grammar AI application interface" className={styles.phoneMockup} />
+            <img src={useBaseUrl("/img/gramar.jpg")} alt="Grammar AI application interface" className={styles.phoneMockup} />
           </div>
         </div>
       </div>
