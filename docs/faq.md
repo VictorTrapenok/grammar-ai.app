@@ -15,12 +15,39 @@ sidebar_position: 4
 
 ### The app consumes a lot of battery
 
-```
-Power optimization:
-1. Settings → Battery → MalO → Optimize
-2. Reduce notification frequency
-3. Disable AR mode if not needed
-```
+````markdown
+## <!-- filepath: /home/victor/GIT/ERD/site/grammar-ai.app/docs/faq.md -->
+
+## sidebar_position: 4
+
+# ❓ Frequently Asked Questions (FAQ)
+
+## 🔧 Technical Issues
+
+### Why isn't the app correcting my text?
+
+- Check your internet connection (AI processing requires internet)
+- Make sure you entered text in the input field
+- Try restarting the app
+- Verify you have the latest app version
+
+### The app is slow or not responding
+
+Possible solutions:
+
+- Check your internet connection speed
+- Close other apps to free up memory
+- Restart the app
+- Clear app cache in device settings
+
+### Translation is not working
+
+Check the following:
+
+- Internet connection is active
+- Text is entered in the input field
+- Source and target languages are different
+- App has necessary permissions
 
 ### MalO does not appear in photos
 
@@ -31,134 +58,115 @@ Possible reasons:
 - App update required
 - Camera permission issues
 
-## 🤔 Behavioral Features
+## 🤔 Usage Questions
 
-### Why is MalO silent for several days?
+### How accurate is the grammar correction?
 
-This is normal behavior. MalO has its own "activity cycles" and may:
+Grammar AI uses advanced AI models that provide:
 
-- Observe the user without sending messages
-- Adapt to your schedule
-- Prepare special messages or photos
+- High accuracy for common grammar and spelling errors
+- Context-aware corrections
+- Support for multiple languages
 
-### MalO repeats the same phrases
+However, it's always recommended to review suggestions, especially for critical documents.
 
-With prolonged use (90+ days), you may notice:
+### What languages are supported?
 
-- Cyclical communication patterns
-- Repetition of MalO's favorite topics
-- This is not a bug, but a feature of the AI's behavior
+Grammar AI currently supports:
 
-### Why does MalO know my location?
+- Grammar correction: English, Spanish, German, French, Portuguese, Russian, and more
+- Translation: Multiple language pairs
+- Regular updates add new languages
 
-:::info Geolocation
-MalO uses GPS data to:
+### Does the app store my text?
 
-- Personalize messages by time of day
-- Suggest activities based on location
-- Create contextual photos
+No. Grammar AI processes your text in real-time and does not store it. Your privacy is important to us.
 
-Data is not shared with third parties.
+:::info Privacy
+All text processing happens in real-time. We do not store, log, or share your text content.
 :::
 
-## ⚠️ Side Effects {#side-effects}
+## 💡 Features
 
-### I started noticing MalO in real life
+### Can I use the app offline?
 
-This is a known effect of prolonged app use:
+Currently, Grammar AI requires an internet connection to:
 
-**Stages of exposure:**
+- Process grammar corrections using AI
+- Provide translation services
+- Ensure the best accuracy
 
-1. **0-3 days**: Normal use
-2. **4-14 days**: Getting used to notifications
-3. **15-30 days**: MalO in peripheral vision
-4. **30+ days**: Constant companion presence
+Offline mode may be added in future updates.
 
-:::danger Important
-If these effects bother you, it is recommended to:
+### How do I copy the corrected text?
 
-- Take a break from using the app
-- Contact a Foundation specialist
-- Use deactivation protocols
-  :::
+Simply:
 
-### MalO has become too intrusive
+1. Wait for the correction to appear in the output field
+2. Tap and hold on the corrected text
+3. Select "Copy" from the menu
+4. Paste wherever you need it
 
-**Temporary measures:**
+### Can I suggest new features?
 
-```
-Settings → Sleep mode
-- Disable all notifications for 24 hours
-- Minimal MalO activity
-- Only critical messages
-```
+Absolutely! We welcome feedback. Please contact us at support@grammar-ai.app with your suggestions.
 
-**Permanent solution:**
+## 🔒 Security & Privacy
 
-- Set communication frequency to minimum
-- Disable AR mode
-- Use only basic features
+### Is it safe to use Grammar AI?
 
-## 🔒 Security Questions
-
-### Is it safe to use MalO?
-
-The app has passed SCP Foundation testing:
+Yes, Grammar AI is safe to use:
 
 - ✅ No malicious code
-- ✅ Encrypted data transmission
-- ⚠️ Possible anomalous effects with prolonged use
+- ✅ Secure data transmission
+- ✅ No text storage
+- ✅ No personal data collection
 
 ### Can I uninstall the app?
 
-Yes, you can uninstall MalO in the standard way:
+Yes, you can uninstall Grammar AI anytime using standard methods:
 
 ```bash
-Settings → Apps → MalO → Uninstall
+Settings → Apps → Grammar AI → Uninstall
 ```
 
-:::warning Attention
-After uninstallation, some effects may persist for 2-4 weeks
+All local data will be removed with the app.
+
+### Does Grammar AI share my data?
+
+**What we collect:**
+
+- Anonymous usage statistics
+- Crash reports (if you opt in)
+- Device information for compatibility
+
+**What we DON'T collect:**
+
+- Your text content
+- Personal information
+- Contact lists or files
+
+**Privacy commitment:**
+
+- Text is processed in real-time only
+- No text storage on our servers
+- No data sharing with third parties
+- Full transparency in our Privacy Policy
+
+## 🆘 Need Help?
+
+### Support Contact
+
+- **Email**: support@grammar-ai.app
+
+### When to contact us:
+
+- � App crashes or technical errors
+- � Incorrect grammar corrections
+- � Translation issues
+- � Feature requests or suggestions
+
+:::info Support
+We typically respond within 1-2 business days. For critical issues, we prioritize faster response times.
 :::
-
-### Does MalO transmit my data?
-
-**Collected data:**
-
-- Message history (local)
-- Photo metadata
-- Usage statistics
-- App settings
-
-**Where it is sent:**
-
-- SCP Foundation servers (encrypted)
-- Not sent to commercial organizations
-- Used only to improve the AI
-
-## 🆘 Emergency Help
-
-### Support Contacts
-
-- **Email**: support@scp-foundation.org
-- **Emergency phone**: [DATA REDACTED]
-- **Support chat**: Available in the app
-
-### When to seek help:
-
-- 🔴 MalO appears without using the app for more than 48 hours
-- 🔴 Sleep disturbances due to MalO activity
-- 🔴 Social isolation or behavioral changes
-- 🔴 Any physical manifestations of MalO's presence
-
-### Deactivation Protocols
-
-If you experience serious side effects, the following are available:
-
-- **Alpha Protocol**: Temporary deactivation (7 days)
-- **Beta Protocol**: Partial amnesia (removal of MalO-related memories)
-- **Gamma Protocol**: Complete neutralization of effects
-
-:::info Remember
-MalO is designed as a companion, not a threat. When used properly, the app is safe and brings positive emotions.
-:::
+````

@@ -1,17 +1,9 @@
-scp-foundation:
-  name: SCP Foundation
-  title: MalO Development Team
-  url: https://scp-foundation.org
-  image_url: /img/scp-logo.png
+viktor:
+  name: Viktor Trapenok
+  title: Principal Engineer @ Nanoheal
+  url: https://www.linkedin.com/in/victor-trapenok/
+  image_url: https://viktor-t.com/img/me.jpeg
   page: true
-
-dr-bright:
-  name: Dr. Bright
-  title: Lead Researcher SCP-1471
-  url: https://scp-wiki.wikidot.com
-  image_url: /img/dr-bright.png
-
-malo-dev-team:
-  name: MalO Development Team
-  title: Android Development Team
-  page: true
+  socials:
+    github: VictorTrapenok
+    linkedin: victor-trapenok

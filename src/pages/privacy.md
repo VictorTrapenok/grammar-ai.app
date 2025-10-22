@@ -1,38 +1,41 @@
-# SCP-1471 MalO
+# Grammar AI
 
 **Version 1.0.0**
 
 ## About the App
 
-SCP-1471 MalO is an application based on an SCP Foundation object. This mobile communication app is inspired by the anomalous object SCP-1471 from the SCP Foundation universe. The application provides secure messaging capabilities with a unique approach to user experience.
+Grammar AI is a simple and powerful application for automatic grammar correction and text translation using artificial intelligence. The app helps you write error-free texts and translate them into different languages.
 
 ## Privacy Policy
 
-### SCP-1471 MalO
+### Grammar AI
 
-**Last updated: 27.09.2025**
+**Last updated: December 2024**
 
 This Privacy Policy explains how our application ("App") handles user information. By installing or using the App, you agree to the practices described in this Policy.
 
 ### 1. Information We Collect
 
-The App itself does not require you to create an account. Depending on how you use the App, the following types of data may be collected automatically:
+The App does not require you to create an account. Depending on how you use the App, the following types of data may be collected:
 
-Device information: such as device model, operating system version, app version, and crash reports.
+**Text Data**: The text you input for grammar correction and translation is processed by our AI service. This data is not stored permanently and is used only to provide the correction/translation service.
 
-Usage data: interactions within the App (for example, how often you open it), collected anonymously for analytics and performance improvements.
+**Device Information**: Such as device model, operating system version, app version, and crash reports.
 
-The App does not request access to sensitive information unless explicitly stated in future updates.
+**Usage Data**: Anonymous analytics about app interactions (for example, how often you use grammar check vs translation features) for performance improvements.
+
+The App does not collect or store personal information.
 
 ### 2. How We Use Information
 
 We use the collected data only to:
 
-- Improve app stability and performance.
-- Understand general usage trends to make the App better.
-- Detect and fix technical issues.
+- Process your text for grammar correction and translation
+- Improve app stability and performance
+- Understand general usage patterns to enhance the App
+- Detect and fix technical issues
 
-We do not sell or share your personal information with third parties for marketing purposes.
+We do not sell or share your personal information with third parties for marketing purposes. Your text data is processed securely and is not retained after processing.
 
 ### 3. Third-Party Services
 
@@ -58,14 +61,8 @@ We may update this Privacy Policy from time to time. Updates will be posted with
 
 If you have questions about this Privacy Policy, you can contact us at:
 
-📧 too.imbadev@gmail.com
-
-## Legal Information
-
-SCP-1471 MalO is an object of the SCP Foundation. This application is distributed under the Creative Commons license, the same as all SCP Foundation related content.
-
-This is not an official SCP Foundation product.
+📧 support@grammar-ai.app
 
 ## Contact & Support
 
-For technical support or inquiries, please contact us on too.imbadev@gmail.com or Google Play application page
+For technical support or inquiries, please contact us at support@grammar-ai.app

@@ -12,7 +12,7 @@ import type { SidebarsConfig } from "@docusaurus/plugin-content-docs";
  */
 const sidebars: SidebarsConfig = {
   // Основная документация MalO
-  tutorialSidebar: ["intro", "about-scp-1471", "app-features", "installation", "usage", "technical-specs", "about-scp", "faq"],
+  tutorialSidebar: ["faq"],
 };
 
 export default sidebars;

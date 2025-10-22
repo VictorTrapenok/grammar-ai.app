@@ -1,28 +1,28 @@
-# SCP-1471 MalO - Data Deletion Instructions
+````markdown
+<!-- filepath: /home/victor/GIT/ERD/site/grammar-ai.app/src/pages/data-deletion.md -->
 
-**Developer:** too.imbadev@gmail.com  
-**Application:** SCP-1471 MalO
+# Grammar AI - Data Deletion Instructions
 
-## Account and Data Deletion Request
+**Developer:** support@grammar-ai.app  
+**Application:** Grammar AI
 
-This page provides instructions for users who wish to request deletion of their account and associated data from the SCP-1471 MalO application.
+## Data Deletion Request
 
-## How to Request Account Deletion
+This page provides instructions for users who wish to request deletion of their data from the Grammar AI application.
+
+## How to Request Data Deletion
 
 ### Step-by-Step Instructions:
 
 1. **Send an Email Request**
 
-   - Send an email to: **too.imbadev@gmail.com**
-   - Use the subject line: "**SCP-1471 MalO - Account Deletion Request**"
+   - Send an email to: **support@grammar-ai.app**
+   - Use the subject line: "**Grammar AI - Data Deletion Request**"
 
 2. **Include Required Information**
 
-   - Your user profile data from the app:
-     - User ID
-     - Login
-     - Password
-   - Your device information (Android device model and OS version)
+   - Your device information (device model and OS version)
+   - App version (if known)
    - Confirmation that you want to delete all associated data
 
 3. **Confirmation**
@@ -32,21 +32,16 @@ This page provides instructions for users who wish to request deletion of their 
 ### Email Template:
 
 ```
-To: too.imbadev@gmail.com
-Subject: SCP-1471 MalO - Account Deletion Request
+To: support@grammar-ai.app
+Subject: Grammar AI - Data Deletion Request
 
-Dear Developer,
+Dear Support Team,
 
-I am requesting the deletion of my account and all associated data from the SCP-1471 MalO application.
-
-User Profile Information:
-- User ID: [Your User ID from app profile]
-- Login: [Your Login from app profile]
-- Password: [Your Password from app profile]
+I am requesting the deletion of all data associated with my use of the Grammar AI application.
 
 Device Information:
 - Device Model: [Your device model]
-- Android Version: [Your Android version]
+- OS Version: [Your OS version]
 - App Version: [Version if known]
 
 I confirm that I want to permanently delete all data associated with my use of this application.
@@ -63,6 +58,8 @@ The following types of data will be permanently removed:
 - **Usage Analytics**: Anonymous usage statistics and interaction data
 - **Crash Reports**: Any crash logs or error reports associated with your device
 - **App Preferences**: Any settings or preferences stored locally
+
+**Note**: Grammar AI does not store your text content. All text processing is done in real-time and not retained after the correction/translation is provided.
 
 ## What Data Will Be Retained
 
@@ -81,14 +78,16 @@ The following types of data will be permanently removed:
 - All your app data and preferences will be permanently deleted
 - You can reinstall the app at any time, but previous data will not be recoverable
 - The app does not require account creation, so most data is stored locally on your device
+- Your text content is never stored, so there is nothing to delete regarding your actual text data
 
 ## Contact Information
 
 For questions about data deletion or privacy concerns:
 
-📧 **Email:** too.imbadev@gmail.com  
-📱 **App:** SCP-1471 MalO on Google Play Store
+📧 **Email:** support@grammar-ai.app  
+📱 **App:** Grammar AI
 
 ---
 
-_This page complies with Google Play Store requirements for data deletion instructions. Last updated: December 2024_
+_This page complies with app store requirements for data deletion instructions. Last updated: December 2024_
+````

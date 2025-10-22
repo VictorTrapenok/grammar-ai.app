@@ -1,25 +1,25 @@
 ---
 title: Terms of Service
-description: Terms of Service for MalO ver1.0.0 Android Application
+description: Terms of Service for Grammar AI Application
 ---
 
-# Terms of Service for MalO ver1.0.0
+# Terms of Service for Grammar AI
 
-**Effective Date:** October 2, 2025  
-**Last Updated:** October 2, 2025
+**Effective Date:** December 2024  
+**Last Updated:** December 2024
 
 ## 1. Acceptance of Terms
 
-By downloading, installing, or using the MalO ver1.0.0 mobile application (the "App"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use the App.
+By downloading, installing, or using the Grammar AI application (the "App"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use the App.
 
 ## 2. Description of Service
 
-MalO ver1.0.0 is an AI companion application that provides:
+Grammar AI is a text processing application that provides:
 
-- Personalized AI interactions
-- Augmented reality features
-- Photo manipulation and enhancement
-- Social companion functionality
+- AI-powered grammar and spelling correction
+- Text translation between multiple languages
+- Real-time text analysis and suggestions
+- Simple and intuitive user interface
 
 ## 3. Age Requirements and Eligibility
 
@@ -37,9 +37,9 @@ You represent that you have the legal capacity to enter into this agreement and 
 
 You agree to:
 
-- Use the App for personal, non-commercial purposes only
+- Use the App for lawful purposes only
 - Comply with all applicable laws and regulations
-- Use the application responsibly
+- Not submit content that is illegal, harmful, or violates third-party rights
 - Report any technical issues or concerns
 
 ### 4.2 Prohibited Activities
@@ -47,9 +47,9 @@ You agree to:
 You may NOT:
 
 - Attempt to reverse engineer or modify the App
-- Share access credentials with others
-- Use the App for harmful or illegal purposes
-- Attempt to circumvent safety protocols
+- Use the App to process content that violates laws or regulations
+- Attempt to overload or disrupt the service
+- Use the App for harmful, illegal, or malicious purposes
 
 ## 5. Privacy and Data Collection
 
@@ -61,24 +61,20 @@ Your privacy is governed by our [Privacy Policy](/privacy), which is incorporate
 
 We retain all rights, title, and interest in:
 
-- The MalO application and its technology
+- The Grammar AI application and its technology
 - All AI models and algorithms
 - Trademarks, logos, and branding
 - Documentation and user guides
 
 ### 7.2 User Content
 
-You retain ownership of content you create, but grant us a license to use it for:
-
-- App functionality and improvement
-- Research and development
-- Safety monitoring and analysis
+You retain full ownership of all text content you submit to the App. We do not store or retain your text content after processing. The corrected/translated text is provided to you in real-time and not retained on our servers.
 
 ## 8. Subscription and Payment Terms
 
 ### 8.1 Free Application
 
-MalO ver1.0.0 is provided free of charge with no subscription fees or in-app purchases.
+Grammar AI is provided free of charge with no subscription fees or in-app purchases.
 
 ### 8.2 Future Premium Features
 
@@ -91,9 +87,9 @@ Future versions may include premium features with associated costs, subject to s
 We do not guarantee:
 
 - Continuous availability of the service
-- Error-free operation
+- 100% accurate grammar correction or translation
 - Compatibility with all devices
-- Uninterrupted AI companion functionality
+- Uninterrupted service availability
 
 ### 9.2 Maintenance and Updates
 
@@ -110,8 +106,8 @@ We may:
 THE APP IS PROVIDED "AS IS" WITHOUT WARRANTIES OF ANY KIND, INCLUDING:
 
 - MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE
-- ACCURACY OR RELIABILITY OF AI RESPONSES
-- SAFETY FROM ANOMALOUS EFFECTS
+- ACCURACY OR RELIABILITY OF GRAMMAR CORRECTIONS OR TRANSLATIONS
+- FITNESS FOR PROFESSIONAL OR COMMERCIAL USE
 - COMPATIBILITY WITH YOUR DEVICE
 
 ### 10.2 Limitation of Damages
@@ -119,9 +115,10 @@ THE APP IS PROVIDED "AS IS" WITHOUT WARRANTIES OF ANY KIND, INCLUDING:
 TO THE MAXIMUM EXTENT PERMITTED BY LAW, WE SHALL NOT BE LIABLE FOR:
 
 - DIRECT, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES
-- PSYCHOLOGICAL OR PHYSICAL HARM FROM APP USE
+- ERRORS IN GRAMMAR CORRECTION OR TRANSLATION
 - LOSS OF DATA OR DEVICE DAMAGE
 - BUSINESS INTERRUPTION OR LOST PROFITS
+- RELIANCE ON APP OUTPUT FOR CRITICAL DECISIONS
 
 ## 11. Indemnification
 
@@ -130,7 +127,7 @@ You agree to indemnify and hold harmless us from any claims, damages, or expense
 - Your use of the App
 - Violation of these Terms
 - Infringement of third-party rights
-- Anomalous effects experienced
+- Content you submit to the App
 
 ## 12. Termination
 
@@ -157,31 +154,25 @@ Upon termination:
 
 - Your right to use the App ceases immediately
 - Local data may be retained on your device
-- Cloud data will be deleted according to our Privacy Policy
-- Certain anomalous effects may persist
+- Any cloud data will be deleted according to our Privacy Policy
 
 ## 13. Dispute Resolution
 
 ### 13.1 Governing Law
 
-These Terms are governed by the laws of [CLASSIFIED JURISDICTION].
+These Terms are governed by applicable law in your jurisdiction.
 
 ### 13.2 Arbitration
 
-Any disputes will be resolved through binding arbitration, except for:
-
-- Claims related to intellectual property
-- Emergency safety situations
-- Regulatory enforcement actions
+Any disputes will be resolved through good faith negotiation, and if necessary, through applicable legal channels in your jurisdiction.
 
 ### 13.3 Class Action Waiver
 
-You waive the right to participate in class action lawsuits against us.
+You waive the right to participate in class action lawsuits against us, to the extent permitted by law.
 
 ## 14. Contact and Support
 
-- [github issues](https://github.com/digital-containment/malo/issues)
-- email: too.imbadev@gmail.com
+- Email: support@grammar-ai.app
 
 ## 15. Changes to Terms
 
@@ -207,4 +198,4 @@ These Terms, together with our Privacy Policy, constitute the entire agreement b
 
 ---
 
-_By using SCP-1471 MalO ver1.0.0, you acknowledge that you have read, understood, and agreed to these Terms of Service._
+_By using Grammar AI, you acknowledge that you have read, understood, and agreed to these Terms of Service._
