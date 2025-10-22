@@ -6,24 +6,6 @@ sidebar_position: 4
 
 ## 🔧 Technical Issues
 
-### Why isn't MalO responding to messages?
-
-- Check your internet connection
-- Make sure the app is not in sleep mode
-- Restart the app
-- Check your notification settings
-
-### The app consumes a lot of battery
-
-````markdown
-## <!-- filepath: /home/victor/GIT/ERD/site/grammar-ai.app/docs/faq.md -->
-
-## sidebar_position: 4
-
-# ❓ Frequently Asked Questions (FAQ)
-
-## 🔧 Technical Issues
-
 ### Why isn't the app correcting my text?
 
 - Check your internet connection (AI processing requires internet)
@@ -48,15 +30,6 @@ Check the following:
 - Text is entered in the input field
 - Source and target languages are different
 - App has necessary permissions
-
-### MalO does not appear in photos
-
-Possible reasons:
-
-- Insufficient lighting
-- Appearance frequency set to minimum
-- App update required
-- Camera permission issues
 
 ## 🤔 Usage Questions
 
@@ -109,7 +82,7 @@ Simply:
 
 ### Can I suggest new features?
 
-Absolutely! We welcome feedback. Please contact us at too.imbadev@gmail.com with your suggestions.
+Absolutely! We welcome feedback. Please contact us at support@grammar-ai.app with your suggestions.
 
 ## 🔒 Security & Privacy
 
@@ -157,16 +130,15 @@ All local data will be removed with the app.
 
 ### Support Contact
 
-- **Email**: too.imbadev@gmail.com
+- **Email**: support@grammar-ai.app
 
 ### When to contact us:
 
-- � App crashes or technical errors
-- � Incorrect grammar corrections
-- � Translation issues
-- � Feature requests or suggestions
+- 🔵 App crashes or technical errors
+- 🔵 Incorrect grammar corrections
+- 🔵 Translation issues
+- 🔵 Feature requests or suggestions
 
 :::info Support
 We typically respond within 1-2 business days. For critical issues, we prioritize faster response times.
 :::
-````

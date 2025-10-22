@@ -1,23 +1,9 @@
 ---
 title: 📞 Contacts & Support
-description: How to contact the SCP-1471 MalO development team
+description: How to contact the Grammar AI support team
 ---
 
 # 📞 Contacts & Support
-
-## 🆘 Emergency Help
-
-### SCP Foundation Hotline
-
-````markdown
-## <!-- filepath: /home/victor/GIT/ERD/site/grammar-ai.app/src/pages/contacts.md -->
-
-title: 📞 Contacts & Support
-description: How to contact the Grammar AI support team
-
----
-
-# � Contacts & Support
 
 ## 💬 Technical Support
 
@@ -25,7 +11,7 @@ description: How to contact the Grammar AI support team
 
 #### 📧 Email Support
 
-**too.imbadev@gmail.com**
+**support@grammar-ai.app**
 
 - General inquiries
 - Technical issues
@@ -40,39 +26,13 @@ description: How to contact the Grammar AI support team
 
 ---
 
-**Call immediately if:**
-
-- 🚨 MalO hallucinations for more than 48 hours
-- 🚨 Severe behavioral changes
-- 🚨 Physical manifestations of the anomaly
-- 🚨 Threats to your own or others' safety
-
----
-
-## 💬 Technical Support
-
-### Main Contact Channels
-
-#### 📧 Email Support
-
-- [General inquiries](https://github.com/VictorTrapenok/grammar-ai.app/issues)
-- [Technical issues](https://github.com/VictorTrapenok/grammar-ai.app/issues)
-- [Bug reports](https://github.com/VictorTrapenok/grammar-ai.app/issues)
-- [Suggestions for improvement](https://github.com/VictorTrapenok/grammar-ai.app/issues)
-
-**⏱️ Response time:**
-
-- Critical issues: up to 2 hours
-- Regular requests: 12-24 hours
-- Suggestions and feedback: 2-3 days
-
 ## 👨‍💻 About the App
 
 Grammar AI is a simple and efficient tool for:
 
 - ✅ Grammar and spelling correction
 - 🌐 AI-powered text translation
-- � Real-time text processing
+- 📝 Real-time text processing
 - 💡 Writing improvement suggestions
 
 ---
@@ -135,11 +95,10 @@ Screenshots or any other relevant details
 - 🔧 Participate in beta testing
 - 📝 Help improve documentation
 - 🌍 Contribute translations
-- � Report security issues
+- 🔒 Report security issues
 
 ---
 
 **We value every user and strive to provide the best grammar correction and translation experience.**
 
 **Thank you for using Grammar AI!** ✨
-````
