@@ -23,12 +23,6 @@ Grammar AI is a text processing application that provides:
 
 ## 3. Age Requirements and Eligibility
 
-### 3.1 Minimum Age
-
-- **13+ years**: Minimum age for use in most jurisdictions
-
-### 3.2 Capacity to Contract
-
 You represent that you have the legal capacity to enter into this agreement and are not barred from using the service under applicable law.
 
 ## 4. User Responsibilities

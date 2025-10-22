@@ -1,21 +1,3 @@
-export function linkedInConversionAndGo(e) {
-  if (e) {
-    e.preventDefault();
-  }
-
-  // @ts-ignore
-  window.gtag_report_conversion("https://www.linkedin.com/in/victor-trapenok/");
-}
-
-export function calendlyConversionAndGo(e) {
-  if (e) {
-    e.preventDefault();
-  }
-
-  // @ts-ignore
-  window.gtag_report_calendly("https://calendly.com/viktor-trapenok/");
-}
-
 /**
  * Функции для отслеживания целевых действий в Яндекс.Метрике
  */
@@ -30,7 +12,7 @@ declare global {
 /**
  * ID счетчика Яндекс.Метрики
  */
-const YANDEX_METRIKA_ID = 104372760;
+const YANDEX_METRIKA_ID = 104801807;
 
 /**
  * Отправляет событие цели в Яндекс.Метрику

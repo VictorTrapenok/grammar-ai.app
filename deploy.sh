@@ -8,12 +8,12 @@ npm run build
  
 echo "Build done"
 
-rm -rf ./malo
+rm -rf ./app-ai
 
 git clone https://https://github.com/VictorTrapenok/grammar-ai.app.git -b gh-pages
 
-mv ./malo/.git ./build/.git
-rm -rf ./malo
+mv ./app-ai/.git ./build/.git
+rm -rf ./app-ai
 cd build
 echo "grammar-ai.app" > CNAME
 git add .

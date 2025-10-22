@@ -32,18 +32,6 @@ const config: Config = {
       injectHtmlTags() {
         return {
           headTags: [
-            // Google Analytics
-            {
-              tagName: "script",
-              attributes: { async: true, src: "https://www.googletagmanager.com/gtag/js?id=G-XWQJNEH9KG" },
-            },
-            {
-              tagName: "script",
-              innerHTML: `window.dataLayer = window.dataLayer || [];
-function gtag(){dataLayer.push(arguments);}
-gtag('js', new Date());
-gtag('config', 'G-XWQJNEH9KG');`,
-            },
             {
               tagName: "script",
               innerHTML: `(function(m,e,t,r,i,k,a){
@@ -51,13 +39,13 @@ gtag('config', 'G-XWQJNEH9KG');`,
         m[i].l=1*new Date();
         for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
         k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)
-    })(window, document,'script','https://mc.yandex.ru/metrika/tag.js?id=104372760', 'ym');
+    })(window, document,'script','https://mc.yandex.ru/metrika/tag.js?id=104801807', 'ym');
 
-    ym(104372760, 'init', {ssr:true, webvisor:true, clickmap:true, ecommerce:"dataLayer", accurateTrackBounce:true, trackLinks:true});`,
+    ym(104801807, 'init', {ssr:true, webvisor:true, clickmap:true, ecommerce:"dataLayer", accurateTrackBounce:true, trackLinks:true});`,
             },
             {
               tagName: "noscript",
-              innerHTML: `<div><img src="https://mc.yandex.ru/watch/104372760" style="position:absolute; left:-9999px;" alt="" /></div>`,
+              innerHTML: `<div><img src="https://mc.yandex.ru/watch/104801807" style="position:absolute; left:-9999px;" alt="" /></div>`,
             },
           ],
         };
@@ -70,9 +58,6 @@ gtag('config', 'G-XWQJNEH9KG');`,
       {
         docs: {
           sidebarPath: "./sidebars.ts",
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
         },
         blog: {
           showReadingTime: true,
@@ -80,10 +65,7 @@ gtag('config', 'G-XWQJNEH9KG');`,
             type: ["rss", "atom"],
             xslt: true,
           },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
-          // Useful options to enforce blogging best practices
+
           onInlineTags: "warn",
           onInlineAuthors: "warn",
           onUntruncatedBlogPosts: "warn",
