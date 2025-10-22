@@ -61,8 +61,8 @@ We may update this Privacy Policy from time to time. Updates will be posted with
 
 If you have questions about this Privacy Policy, you can contact us at:
 
-📧 support@grammar-ai.app
+📧 too.imbadev@gmail.com
 
 ## Contact & Support
 
-For technical support or inquiries, please contact us at support@grammar-ai.app
+For technical support or inquiries, please contact us at too.imbadev@gmail.com

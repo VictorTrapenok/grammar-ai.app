@@ -8,7 +8,6 @@ export { default as Features } from "./Features";
 export { default as AboutSCP } from "./AboutSCP";
 export { default as AppFeatures } from "./AppFeatures";
 export { default as AboutMalO } from "./AboutMalO";
-export { default as ChatPreview } from "./ChatPreview";
 export { default as HowItWorks } from "./HowItWorks";
 export { default as Screenshots } from "./Screenshots";
 export { default as FAQ } from "./FAQ";

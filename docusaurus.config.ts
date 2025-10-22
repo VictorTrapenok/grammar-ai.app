@@ -3,8 +3,8 @@ import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
-  title: "Grammar AI — Исправление ошибок в тексте с помощью ИИ",
-  tagline: "Простое приложение для автоматического исправления грамматических и орфографических ошибок в тексте.",
+  title: "Grammar AI — AI-Powered Grammar Correction & Translation",
+  tagline: "Simple application for automatic grammar and spelling correction using artificial intelligence.",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here

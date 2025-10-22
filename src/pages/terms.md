@@ -166,7 +166,7 @@ You waive the right to participate in class action lawsuits against us, to the e
 
 ## 14. Contact and Support
 
-- Email: support@grammar-ai.app
+- Email: too.imbadev@gmail.com
 
 ## 15. Changes to Terms
 

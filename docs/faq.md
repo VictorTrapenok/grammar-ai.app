@@ -109,7 +109,7 @@ Simply:
 
 ### Can I suggest new features?
 
-Absolutely! We welcome feedback. Please contact us at support@grammar-ai.app with your suggestions.
+Absolutely! We welcome feedback. Please contact us at too.imbadev@gmail.com with your suggestions.
 
 ## 🔒 Security & Privacy
 
@@ -157,7 +157,7 @@ All local data will be removed with the app.
 
 ### Support Contact
 
-- **Email**: support@grammar-ai.app
+- **Email**: too.imbadev@gmail.com
 
 ### When to contact us:
 

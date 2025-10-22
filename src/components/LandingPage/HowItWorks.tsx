@@ -1,9 +1,8 @@
 import React from "react";
-import { translate } from "@docusaurus/Translate";
 import styles from "./HowItWorks.module.css";
 
 /**
- * Интерфейс для одного шага инструкции
+ * Interface for one instruction step
  */
 interface Step {
   number: number;
@@ -12,57 +11,34 @@ interface Step {
 }
 
 /**
- * Компонент HowItWorks - инструкция по использованию приложения
+ * HowItWorks component - application usage instructions
  */
 export default function HowItWorks(): JSX.Element {
   /**
-   * Шаги использования приложения с переводами
+   * Application usage steps
    */
   const steps: Step[] = [
     {
       number: 1,
-      title: translate({
-        id: "howItWorks.step1.title",
-        message: "Download",
-      }),
-      description: translate({
-        id: "howItWorks.step1.description",
-        message: "Get the app on Google Play and sign in.",
-      }),
+      title: "Enter Your Text",
+      description: "Paste or type your text in the first field.",
     },
     {
       number: 2,
-      title: translate({
-        id: "howItWorks.step2.title",
-        message: "Start the Chat",
-      }),
-      description: translate({
-        id: "howItWorks.step2.description",
-        message: "Open a conversation with MalO (SCP-1471) in a familiar messenger UI.",
-      }),
+      title: "Click Check",
+      description: "AI analyzes and corrects grammar, spelling, and punctuation errors.",
     },
     {
       number: 3,
-      title: translate({
-        id: "howItWorks.step3.title",
-        message: "Stay Engaged",
-      }),
-      description: translate({
-        id: "howItWorks.step3.description",
-        message: "Receive atmospheric updates and explore new interactions over time.",
-      }),
+      title: "Get Results",
+      description: "Receive corrected text in the second field. Copy and use it anywhere.",
     },
   ];
 
   return (
-    <section className={styles.howItWorks}>
+    <section className={styles.howItWorks} id="how-it-works">
       <div className="container">
-        <h2 className={styles.sectionTitle}>
-          {translate({
-            id: "howItWorks.title",
-            message: "How It Works",
-          })}
-        </h2>
+        <h2 className={styles.sectionTitle}>How It Works</h2>
 
         <div className={styles.stepsContainer}>
           {steps.map((step) => (

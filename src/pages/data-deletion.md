@@ -3,7 +3,7 @@
 
 # Grammar AI - Data Deletion Instructions
 
-**Developer:** support@grammar-ai.app  
+**Developer:** too.imbadev@gmail.com  
 **Application:** Grammar AI
 
 ## Data Deletion Request
@@ -16,7 +16,7 @@ This page provides instructions for users who wish to request deletion of their 
 
 1. **Send an Email Request**
 
-   - Send an email to: **support@grammar-ai.app**
+   - Send an email to: **too.imbadev@gmail.com**
    - Use the subject line: "**Grammar AI - Data Deletion Request**"
 
 2. **Include Required Information**
@@ -32,7 +32,7 @@ This page provides instructions for users who wish to request deletion of their 
 ### Email Template:
 
 ```
-To: support@grammar-ai.app
+To: too.imbadev@gmail.com
 Subject: Grammar AI - Data Deletion Request
 
 Dear Support Team,
@@ -84,7 +84,7 @@ The following types of data will be permanently removed:
 
 For questions about data deletion or privacy concerns:
 
-📧 **Email:** support@grammar-ai.app  
+📧 **Email:** too.imbadev@gmail.com  
 📱 **App:** Grammar AI
 
 ---

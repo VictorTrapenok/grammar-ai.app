@@ -25,7 +25,7 @@ description: How to contact the Grammar AI support team
 
 #### 📧 Email Support
 
-**support@grammar-ai.app**
+**too.imbadev@gmail.com**
 
 - General inquiries
 - Technical issues

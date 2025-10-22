@@ -1,87 +1,56 @@
 /**
- * Главная страница сайта - лендинг для приложения
- * Собран из модульных компонентов для лучшей поддерживаемости
+ * Main page - landing for Grammar AI application
+ * Built from modular components for better maintainability
  */
 import React from "react";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
-import { translate } from "@docusaurus/Translate";
 import Layout from "@theme/Layout";
 
-// Импорт всех компонентов лендинга
-import {
-  Hero,
-  Features,
-  AboutSCP,
-  AboutMalO,
-  ChatPreview,
-  AppFeatures,
-  HowItWorks,
-  Screenshots,
-  FAQ,
-  FinalCTA,
-  StickyMobileCTA,
-} from "@site/src/components/LandingPage";
+// Import all landing page components
+import { Hero, Features, HowItWorks, FAQ, FinalCTA, StickyMobileCTA } from "@site/src/components/LandingPage";
 
 /**
- * Главный компонент страницы
+ * Main page component
  */
 export default function Home(): JSX.Element {
   const { siteConfig } = useDocusaurusContext();
 
-  // Структурированные данные для Google
+  // Structured data for Google
   const structuredData = {
     "@context": "https://schema.org",
     "@type": "SoftwareApplication",
-    name: "SCP-1471 MalO App",
+    name: "Grammar AI",
     operatingSystem: "Android",
-    applicationCategory: "EntertainmentApplication",
+    applicationCategory: "ProductivityApplication",
     offers: {
       "@type": "Offer",
       price: "0",
       priceCurrency: "USD",
     },
-    aggregateRating: {
-      "@type": "AggregateRating",
-      ratingValue: "4.8",
-      reviewCount: "1200",
-    },
-    description: "Chat with MalO (SCP-1471) AI companion on Android. Atmospheric messenger-style experience based on SCP Foundation lore.",
-    downloadUrl: "https://play.google.com/apps/testing/com.doctordredd.scp1471malo",
+    description: "AI-powered grammar correction and translation tool. Fix spelling and grammar errors instantly with artificial intelligence.",
+    downloadUrl: "https://play.google.com/store/apps/details?id=app.grammar.ai",
     author: {
       "@type": "Organization",
-      name: "Digital Containment",
+      name: "Grammar AI",
     },
-    keywords: ["SCP-1471", "MalO", "SCP Foundation", "AI chatbot", "Android app", "companion app"],
+    keywords: ["grammar checker", "AI grammar", "text correction", "translation", "writing assistant"],
   };
 
-  const title = translate({
-    id: "homepage.title",
-    message: "SCP-1471 MalO — Chat with the Mysterious SCP Companion | Android",
-  });
-
-  const description = translate({
-    id: "homepage.description",
-    message: "Experience the SCP-1471 AI app. Chat with MalO, explore her eerie personality, and uncover the SCP mystery. Free download for Android.",
-  });
+  const title = "Grammar AI — AI-Powered Grammar Correction & Translation";
+  const description = "Fix grammar and spelling errors instantly with AI. Translate text between languages. Simple, fast, and accurate.";
 
   return (
     <Layout title={title} description={description}>
-      {/* Структурированные данные */}
+      {/* Structured data */}
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }} />
 
-      {/* Основной контент с тематическими секциями */}
+      {/* Main content */}
       <Hero />
-      <AboutSCP />
-      <AboutMalO />
       <Features />
-      <ChatPreview />
-      <AppFeatures />
       <HowItWorks />
-      <Screenshots />
       <FAQ />
       <FinalCTA />
-
-      {/* Липкая CTA кнопка для мобильных (появляется при скролле) */}
+      {/* Sticky CTA button for mobile */}
       <StickyMobileCTA />
     </Layout>
   );
