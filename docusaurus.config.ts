@@ -22,47 +22,9 @@ const config: Config = {
   onBrokenMarkdownLinks: "warn",
   onBrokenAnchors: "warn",
 
-  // Internationalization configuration
   i18n: {
     defaultLocale: "en",
-    locales: ["en", "ru", "es", "de", "pt"],
-    localeConfigs: {
-      en: {
-        label: "English",
-        direction: "ltr",
-        htmlLang: "en-US",
-        calendar: "gregory",
-        path: "en",
-      },
-      ru: {
-        label: "Русский",
-        direction: "ltr",
-        htmlLang: "ru",
-        calendar: "gregory",
-        path: "ru",
-      },
-      es: {
-        label: "Español",
-        direction: "ltr",
-        htmlLang: "es",
-        calendar: "gregory",
-        path: "es",
-      },
-      de: {
-        label: "Deutsch",
-        direction: "ltr",
-        htmlLang: "de",
-        calendar: "gregory",
-        path: "de",
-      },
-      pt: {
-        label: "Português",
-        direction: "ltr",
-        htmlLang: "pt",
-        calendar: "gregory",
-        path: "pt",
-      },
-    },
+    locales: ["en"],
   },
   plugins: [
     () => ({
@@ -143,53 +105,32 @@ gtag('config', 'G-XWQJNEH9KG');`,
         src: "img/logo.webp",
       },
       items: [
-        { to: "/#about", label: "О приложении", position: "left" },
-        { to: "/#features", label: "Возможности", position: "left" },
-        { to: "/#how-it-works", label: "Как это работает", position: "left" },
-        {
-          type: "localeDropdown",
-          position: "right",
-        },
+        { to: "/#about", label: "About", position: "left" },
+        { to: "/#features", label: "Features", position: "left" },
+        { to: "/#how-it-works", label: "How It Works", position: "left" },
       ],
     },
     footer: {
       style: "dark",
       links: [
         {
-          title: "Приложение",
+          title: "Legal",
           items: [
             {
-              label: "О приложении",
-              to: "/#about",
-            },
-            {
-              label: "Возможности",
-              to: "/#features",
-            },
-            {
-              label: "Как это работает",
-              to: "/#how-it-works",
-            },
-          ],
-        },
-        {
-          title: "Юридическая информация",
-          items: [
-            {
-              label: "Политика конфиденциальности",
+              label: "Privacy Policy",
               to: "/privacy",
             },
             {
-              label: "Условия использования",
+              label: "Terms of Service",
               to: "/terms",
             },
           ],
         },
         {
-          title: "Связь",
+          title: "Support",
           items: [
             {
-              label: "Контакты",
+              label: "Contact",
               to: "/contacts",
             },
           ],

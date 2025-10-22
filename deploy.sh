@@ -15,7 +15,7 @@ git clone https://https://github.com/VictorTrapenok/grammar-ai.app.git -b gh-pag
 mv ./malo/.git ./build/.git
 rm -rf ./malo
 cd build
-echo "scp-1471.app" > CNAME
+echo "grammar-ai.app" > CNAME
 git add .
 git commit -m "Deploy"
 git push
