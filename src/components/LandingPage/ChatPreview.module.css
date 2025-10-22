@@ -1,0 +1,76 @@
+/* Chat Preview */
+.wrap {
+  padding: 72px 0 84px;
+  background: linear-gradient(135deg, #121320 0%, #0b0c14 100%);
+  color: #e8e8ea;
+}
+
+.title {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 800;
+  margin: 0 0 24px;
+}
+
+.chatBox {
+  max-width: 820px;
+  margin: 0 auto;
+  background: #0e0f18;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 18px;
+  padding: 18px;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.35);
+}
+
+.msg {
+  margin: 10px 0;
+}
+.name {
+  font-size: 0.8rem;
+  color: #9aa0ae;
+  margin: 0 6px 6px;
+}
+.time {
+  font-size: 0.75rem;
+  color: #7d8392;
+  margin: 6px 10px 0;
+}
+
+.bubble {
+  display: inline-block;
+  padding: 12px 14px;
+  border-radius: 16px;
+  line-height: 1.5;
+  max-width: 70ch;
+}
+
+.malo .bubble {
+  background: linear-gradient(180deg, rgba(255, 107, 53, 0.15), rgba(255, 107, 53, 0.1));
+  border: 1px solid rgba(255, 107, 53, 0.35);
+}
+
+.user {
+  text-align: right;
+}
+.user .bubble {
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.08), rgba(255, 255, 255, 0.05));
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
+
+.ctaRow {
+  text-align: center;
+  margin-top: 24px;
+}
+.cta {
+  display: inline-block;
+  padding: 12px 20px;
+  border-radius: 10px;
+  background: linear-gradient(45deg, #ff6b35, #f7931e);
+  color: #fff;
+  text-decoration: none;
+  font-weight: 700;
+  box-shadow: 0 12px 30px rgba(255, 107, 53, 0.35);
+}
+.cta:hover {
+  filter: brightness(1.05);
+}

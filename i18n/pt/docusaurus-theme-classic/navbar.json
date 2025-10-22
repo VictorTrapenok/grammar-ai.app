@@ -1,0 +1,30 @@
+{
+  "item.label.About SCP-1471": {
+    "message": "Sobre SCP-1471",
+    "description": "Navbar item with label About SCP-1471"
+  },
+  "item.label.Features": {
+    "message": "Recursos",
+    "description": "Navbar item with label Features"
+  },
+  "item.label.FAQ": {
+    "message": "FAQ",
+    "description": "Navbar item with label FAQ"
+  },
+  "item.label.Documentation": {
+    "message": "Documentação",
+    "description": "Navbar item with label Documentation"
+  },
+  "item.label.Download": {
+    "message": "Download",
+    "description": "Navbar item with label Download"
+  },
+  "item.label.Updates": {
+    "message": "Atualizações",
+    "description": "Navbar item with label Updates"
+  },
+  "item.label.Contact": {
+    "message": "Contato",
+    "description": "Navbar item with label Contact"
+  }
+}

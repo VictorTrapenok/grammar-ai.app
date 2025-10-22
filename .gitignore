@@ -3,6 +3,7 @@
 
 # Production
 /build
+/cv
 
 # Generated files
 .docusaurus
@@ -18,3 +19,7 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+CNAME
+/build/CNAME
+blog-demo 

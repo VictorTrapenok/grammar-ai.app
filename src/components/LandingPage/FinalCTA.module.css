@@ -1,0 +1,54 @@
+/* Секция Final CTA */
+.finalCTA {
+  padding: 80px 0;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  text-align: center;
+}
+
+.ctaContent {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.ctaTitle {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: white;
+  margin-bottom: 2rem;
+}
+
+.ctaButton {
+  display: inline-block;
+  transition: transform 0.2s ease;
+  margin-bottom: 1.5rem;
+}
+
+.ctaButton:hover {
+  transform: scale(1.05);
+}
+
+.playBadge {
+  height: 70px;
+  width: auto;
+}
+
+.ctaSubtitle {
+  font-size: 1rem;
+  color: rgba(255, 255, 255, 0.9);
+  margin: 0;
+}
+
+/* Адаптивность */
+@media (max-width: 768px) {
+  .finalCTA {
+    padding: 60px 0;
+  }
+
+  .ctaTitle {
+    font-size: 2rem;
+  }
+
+  .playBadge {
+    height: 60px;
+  }
+}

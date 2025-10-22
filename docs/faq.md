@@ -1,152 +1,164 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 ---
 
-# Frequently Asked Questions
+# ❓ Frequently Asked Questions (FAQ)
 
-Find answers to common questions about Grammar AI.
+## 🔧 Technical Issues
 
-## General Questions
+### Why isn't MalO responding to messages?
 
-### What is Grammar AI?
+- Check your internet connection
+- Make sure the app is not in sleep mode
+- Restart the app
+- Check your notification settings
 
-Grammar AI is an intelligent mobile application for iOS and Android that helps you write better English by checking grammar, spelling, and style in real-time using advanced AI technology.
+### The app consumes a lot of battery
 
-### Is Grammar AI free?
+```
+Power optimization:
+1. Settings → Battery → MalO → Optimize
+2. Reduce notification frequency
+3. Disable AR mode if not needed
+```
 
-Yes! Grammar AI offers a free version with essential grammar checking features. We also offer a premium version with advanced features like advanced style suggestions and unlimited checks.
+### MalO does not appear in photos
 
-### Which platforms does Grammar AI support?
+Possible reasons:
 
-Grammar AI is available on:
-- **iOS**: iPhone and iPad (iOS 14.0 or later)
-- **Android**: Smartphones and tablets (Android 8.0 or later)
+- Insufficient lighting
+- Appearance frequency set to minimum
+- App update required
+- Camera permission issues
 
-## Features & Usage
+## 🤔 Behavioral Features
 
-### Does Grammar AI work offline?
+### Why is MalO silent for several days?
 
-Yes! All text processing happens locally on your device, so you can use Grammar AI even without an internet connection.
+This is normal behavior. MalO has its own "activity cycles" and may:
 
-### Which languages are supported?
+- Observe the user without sending messages
+- Adapt to your schedule
+- Prepare special messages or photos
 
-Currently, Grammar AI supports English (US, UK, Australian, and Canadian variants). We're working on adding more languages in future updates.
+### MalO repeats the same phrases
 
-### Can I use Grammar AI in any app?
+With prolonged use (90+ days), you may notice:
 
-Yes! Grammar AI integrates with your device's keyboard and can be used in virtually any app where you type text, including:
-- Email clients
-- Messaging apps
-- Note-taking apps
-- Social media apps
-- Web browsers
+- Cyclical communication patterns
+- Repetition of MalO's favorite topics
+- This is not a bug, but a feature of the AI's behavior
 
-### How accurate is Grammar AI?
+### Why does MalO know my location?
 
-Grammar AI uses state-of-the-art AI models trained on millions of examples. While no tool is 100% perfect, Grammar AI achieves high accuracy in detecting common grammar, spelling, and style issues.
+:::info Geolocation
+MalO uses GPS data to:
 
-## Privacy & Security
+- Personalize messages by time of day
+- Suggest activities based on location
+- Create contextual photos
 
-### Is my data private?
+Data is not shared with third parties.
+:::
 
-Absolutely! Privacy is our top priority:
-- All text processing happens on your device
-- We don't send your text to our servers
-- We don't store your documents
-- We don't track what you write
+## ⚠️ Side Effects {#side-effects}
 
-### Do you collect any data?
+### I started noticing MalO in real life
 
-We only collect minimal, anonymized analytics data to improve the app (like crash reports and feature usage statistics). We never collect or store your actual text content.
+This is a known effect of prolonged app use:
 
-## Technical Questions
+**Stages of exposure:**
 
-### Why does the app need keyboard permissions?
+1. **0-3 days**: Normal use
+2. **4-14 days**: Getting used to notifications
+3. **15-30 days**: MalO in peripheral vision
+4. **30+ days**: Constant companion presence
 
-To provide real-time grammar checking as you type, Grammar AI needs to integrate with your device's keyboard system. This allows us to see what you're typing and provide suggestions. Remember, all processing happens on your device!
+:::danger Important
+If these effects bother you, it is recommended to:
 
-### How much storage does the app require?
+- Take a break from using the app
+- Contact a Foundation specialist
+- Use deactivation protocols
+  :::
 
-Grammar AI requires approximately:
-- **iOS**: 50-80 MB
-- **Android**: 45-75 MB
+### MalO has become too intrusive
 
-The exact size may vary depending on your device and installed language models.
+**Temporary measures:**
 
-### Does Grammar AI slow down my device?
+```
+Settings → Sleep mode
+- Disable all notifications for 24 hours
+- Minimal MalO activity
+- Only critical messages
+```
 
-No! Grammar AI is optimized to run efficiently in the background. Most users don't notice any performance impact on their device.
+**Permanent solution:**
 
-## Troubleshooting
+- Set communication frequency to minimum
+- Disable AR mode
+- Use only basic features
 
-### The app isn't showing suggestions. What should I do?
+## 🔒 Security Questions
 
-Try these steps:
-1. Make sure Grammar AI is enabled in your device's keyboard settings
-2. Restart the app
-3. Check that you have the latest version installed
-4. If the problem persists, try reinstalling the app
+### Is it safe to use MalO?
 
-### Grammar AI crashes when I open it. How can I fix this?
+The app has passed SCP Foundation testing:
 
-If the app crashes:
-1. Force close the app and reopen it
-2. Restart your device
-3. Check for updates in the App Store or Google Play
-4. If the issue continues, please contact our support team
+- ✅ No malicious code
+- ✅ Encrypted data transmission
+- ⚠️ Possible anomalous effects with prolonged use
 
-### I'm not receiving notifications about errors. Why?
+### Can I uninstall the app?
 
-Check these settings:
-1. Ensure notifications are enabled for Grammar AI in your device settings
-2. Make sure "Do Not Disturb" mode isn't blocking notifications
-3. Verify that Grammar AI has the necessary permissions
+Yes, you can uninstall MalO in the standard way:
 
-## Subscription & Billing
+```bash
+Settings → Apps → MalO → Uninstall
+```
 
-### What's included in the premium version?
+:::warning Attention
+After uninstallation, some effects may persist for 2-4 weeks
+:::
 
-Grammar AI Premium includes:
-- Advanced style suggestions
-- Vocabulary enhancement
-- Tone detector
-- Unlimited checks
-- Priority support
-- No ads
+### Does MalO transmit my data?
 
-### How do I cancel my subscription?
+**Collected data:**
 
-**iOS**: Go to Settings > [Your Name] > Subscriptions > Grammar AI > Cancel Subscription
+- Message history (local)
+- Photo metadata
+- Usage statistics
+- App settings
 
-**Android**: Open Google Play Store > Menu > Subscriptions > Grammar AI > Cancel Subscription
+**Where it is sent:**
 
-### Can I get a refund?
+- SCP Foundation servers (encrypted)
+- Not sent to commercial organizations
+- Used only to improve the AI
 
-Refund policies follow the standard App Store and Google Play Store guidelines. Contact support@grammar-ai.app with your concerns.
+## 🆘 Emergency Help
 
-## Support
+### Support Contacts
 
-### How can I contact support?
+- **Email**: support@scp-foundation.org
+- **Emergency phone**: [DATA REDACTED]
+- **Support chat**: Available in the app
 
-You can reach us at:
-- **Email**: support@grammar-ai.app
-- **GitHub**: [github.com/VictorTrapenok/grammar-ai.app](https://github.com/VictorTrapenok/grammar-ai.app/issues)
+### When to seek help:
 
-We typically respond within 24-48 hours on business days.
+- 🔴 MalO appears without using the app for more than 48 hours
+- 🔴 Sleep disturbances due to MalO activity
+- 🔴 Social isolation or behavioral changes
+- 🔴 Any physical manifestations of MalO's presence
 
-### How can I report a bug?
+### Deactivation Protocols
 
-Please report bugs through:
-1. The in-app feedback feature
-2. GitHub Issues: [github.com/VictorTrapenok/grammar-ai.app/issues](https://github.com/VictorTrapenok/grammar-ai.app/issues)
-3. Email: support@grammar-ai.app
+If you experience serious side effects, the following are available:
 
-Include as much detail as possible, including your device model and OS version.
+- **Alpha Protocol**: Temporary deactivation (7 days)
+- **Beta Protocol**: Partial amnesia (removal of MalO-related memories)
+- **Gamma Protocol**: Complete neutralization of effects
 
-### Can I suggest new features?
-
-Absolutely! We love hearing from our users. Send your suggestions to support@grammar-ai.app or open a feature request on our GitHub repository.
-
-## Still Have Questions?
-
-If you couldn't find the answer you're looking for, please don't hesitate to contact us at support@grammar-ai.app. We're here to help!
+:::info Remember
+MalO is designed as a companion, not a threat. When used properly, the app is safe and brings positive emotions.
+:::

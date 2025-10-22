@@ -1,14 +1,32 @@
-# Grammar AI - Landing Page
+# 📱 SCP-1471 "MalO ver1.0.0"
 
-This repository contains the landing page for Grammar AI, an intelligent grammar checker application available for iOS and Android.
+Welcome to the website of SCP-1471 "MalO ver1.0.0" - an anomalous AI companion app for Android devices.
 
-## About Grammar AI
+## 🚀 About the Project
 
-Grammar AI is your intelligent writing companion, helping you write perfect English on the go using advanced AI-powered grammar checking, spelling correction, and style suggestions.
+**SCP-1471** is a unique mobile application developed by the SCP Foundation that provides users with a personal AI companion with anomalous properties.
 
-## Website
+### ✨ Key Features:
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+- 💬 Intelligent communication with MalO AI companion
+
+## 📥 Download the App
+
+- 🤖 **Android**: [Google Play Store](https://play.google.com/store/apps/details?id=com.doctordredd.scp1471malo)
+
+- [Join for testing in Google Play Store](https://play.google.com/apps/testing/com.doctordredd.scp1471malo)
+
+## 🛡️ Safety
+
+⚠️ **IMPORTANT**: Please read the [safety guidelines](/blog/safety-guidelines) before use.
+
+SCP-1471 may cause anomalous effects with prolonged use. The SCP Foundation provides 24/7 user support.
+
+---
+
+## 🛠️ Website Development
+
+This website is built using [Docusaurus 3](https://docusaurus.io/).
 
 ### Installation
 
@@ -19,7 +37,8 @@ npm install
 ### Local Development
 
 ```bash
-npm start
+nvm use v22
+npm run dev
 ```
 
 This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
@@ -27,6 +46,7 @@ This command starts a local development server and opens up a browser window. Mo
 ### Build
 
 ```bash
+nvm use v22
 npm run build
 ```
 
@@ -35,19 +55,6 @@ This command generates static content into the `build` directory and can be serv
 ### Deployment
 
 ```bash
-npm run deploy
+nvm use v22
+./deploy.sh
 ```
-
-This command builds the website and pushes to the `gh-pages` branch for GitHub Pages deployment.
-
-## Features
-
-- 🤖 AI-Powered grammar and spelling corrections
-- 📱 Available on iOS and Android
-- 🔒 Privacy-focused - your data stays on your device
-- ⚡ Real-time suggestions as you type
-- 🎨 Modern and responsive design
-
-## License
-
-Copyright © 2025 Grammar AI. All rights reserved.

@@ -1,0 +1,72 @@
+/* About MalO section */
+.wrap {
+  padding: 72px 0;
+  background: #0f0f17;
+  color: #e8e8ea;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 40px;
+  align-items: start;
+}
+
+.title {
+  font-size: 2.25rem;
+  font-weight: 800;
+  margin: 0 0 12px;
+}
+
+.lead {
+  font-size: 1.125rem;
+  color: #b8bbc6;
+  margin: 0 0 20px;
+  line-height: 1.7;
+}
+
+.traits {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 12px;
+}
+
+.traits li {
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.04), rgba(255, 255, 255, 0.02));
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 12px;
+  padding: 14px 16px;
+}
+
+.card {
+  background: linear-gradient(145deg, #14141f, #0d0d14);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 14px;
+  padding: 18px;
+}
+
+.header {
+  font-weight: 700;
+  color: #ff9261;
+  margin-bottom: 8px;
+}
+
+.note {
+  color: #c6c8d1;
+  line-height: 1.6;
+}
+
+.meta {
+  margin-top: 10px;
+  color: #8e92a1;
+  font-size: 0.85rem;
+}
+
+@media (max-width: 996px) {
+  .grid {
+    grid-template-columns: 1fr;
+  }
+}

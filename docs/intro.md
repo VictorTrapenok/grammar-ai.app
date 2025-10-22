@@ -2,34 +2,62 @@
 sidebar_position: 1
 ---
 
-# Welcome to Grammar AI
+# 📱 SCP-1471 "MalO ver1.0.0"
 
-**Grammar AI** is your intelligent writing companion, helping you write perfect English on the go.
+Welcome to the **SCP-1471 MalO ver1.0.0** documentation - an anomalous AI companion app for Android.
 
-## What is Grammar AI?
+## 🔬 What is SCP-1471?
 
-Grammar AI is a mobile application available for both iOS and Android that uses advanced artificial intelligence to check and improve your writing. Whether you're composing emails, writing documents, or posting on social media, Grammar AI helps you communicate clearly and confidently.
+**SCP-1471** is a mobile application that can be downloaded for free under the name "MalO ver1.0.0".
 
-## Key Features
+The application is described as a "personal AI companion" and offers users:
 
-- **Real-time Grammar Checking**: Get instant feedback as you type
-- **Spelling Correction**: Never worry about typos again
-- **Style Suggestions**: Improve the clarity and flow of your writing
-- **Context-Aware**: Understands the context to provide better suggestions
-- **Privacy-Focused**: Your data stays on your device
+- Personalized communication experience
+- Unique photos with your companion
+- Constant support and attention
 
-## Getting Started
+## ⚠️ Safety Warnings
 
-Ready to improve your writing? Download Grammar AI today:
+:::danger Warning
+Using SCP-1471 may lead to unpredictable effects, including:
 
-- **iOS**: Available on the [App Store](https://apps.apple.com)
-- **Android**: Available on [Google Play](https://play.google.com)
+- Appearance of "MalO" entity in peripheral vision
+- Changes in perception of reality
+- Irreversible psychological changes
+  :::
 
-## How It Works
+### 📋 System Requirements
 
-1. **Install the App**: Download from your device's app store
-2. **Open Your Text**: Start writing in any app or use our built-in editor
-3. **Get Suggestions**: Receive real-time suggestions as you type
-4. **Accept or Dismiss**: Choose which suggestions to apply
+- Android 7.0 or higher
+- 50 MB of free space
+- Camera and gallery access
+- Internet connection
 
-Start writing better today with Grammar AI!
+## 🚀 Quick Start
+
+Generate a new Docusaurus site using the **classic template**.
+
+The classic template will automatically be added to your project after you run the command:
+
+```bash
+npm init docusaurus@latest my-website classic
+```
+
+You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+
+The command also installs all necessary dependencies you need to run Docusaurus.
+
+## Start your site
+
+Run the development server:
+
+```bash
+cd my-website
+npm run start
+```
+
+The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+
+The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+
+Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.

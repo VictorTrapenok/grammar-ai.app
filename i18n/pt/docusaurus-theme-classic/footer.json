@@ -1,0 +1,46 @@
+{
+  "link.title.Documentation": {
+    "message": "Documentação",
+    "description": "The title of the footer links column with title=Documentation in the footer"
+  },
+  "link.title.SCP Foundation": {
+    "message": "Fundação SCP",
+    "description": "The title of the footer links column with title=SCP Foundation in the footer"
+  },
+  "link.title.Support": {
+    "message": "Suporte",
+    "description": "The title of the footer links column with title=Support in the footer"
+  },
+  "link.item.label.Quick Start": {
+    "message": "Início Rápido",
+    "description": "The label of footer link with label=Quick Start linking to /docs/intro"
+  },
+  "link.item.label.Installation": {
+    "message": "Instalação",
+    "description": "The label of footer link with label=Installation linking to /docs/installation"
+  },
+  "link.item.label.FAQ": {
+    "message": "FAQ",
+    "description": "The label of footer link with label=FAQ linking to /docs/faq"
+  },
+  "link.item.label.SCP-1471 Article": {
+    "message": "Artigo SCP-1471",
+    "description": "The label of footer link with label=SCP-1471 Article linking to http://scp-wiki.wikidot.com/scp-1471"
+  },
+  "link.item.label.Privacy Policy": {
+    "message": "Política de Privacidade",
+    "description": "The label of footer link with label=Privacy Policy linking to /privacy"
+  },
+  "link.item.label.Terms of Service": {
+    "message": "Termos de Serviço",
+    "description": "The label of footer link with label=Terms of Service linking to /terms"
+  },
+  "link.item.label.GitHub Issues": {
+    "message": "Issues do GitHub",
+    "description": "The label of footer link with label=GitHub Issues linking to https://github.com/digital-containment/malo/issues"
+  },
+  "link.item.label.Updates": {
+    "message": "Atualizações",
+    "description": "The label of footer link with label=Updates linking to /blog"
+  }
+}

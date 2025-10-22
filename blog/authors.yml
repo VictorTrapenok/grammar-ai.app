@@ -1,0 +1,17 @@
+scp-foundation:
+  name: SCP Foundation
+  title: MalO Development Team
+  url: https://scp-foundation.org
+  image_url: /img/scp-logo.png
+  page: true
+
+dr-bright:
+  name: Dr. Bright
+  title: Lead Researcher SCP-1471
+  url: https://scp-wiki.wikidot.com
+  image_url: /img/dr-bright.png
+
+malo-dev-team:
+  name: MalO Development Team
+  title: Android Development Team
+  page: true

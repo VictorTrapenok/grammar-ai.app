@@ -1,0 +1,224 @@
+/**
+ * Стили для компонента Security - блок о безопасности и приватности
+ */
+
+.security {
+  padding: 80px 0;
+  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+}
+
+.securityHeader {
+  text-align: center;
+  margin-bottom: 4rem;
+}
+
+.sectionTitle {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  color: #1a1a2e;
+}
+
+.sectionSubtitle {
+  font-size: 1.125rem;
+  color: #6c757d;
+  max-width: 700px;
+  margin: 0 auto;
+  line-height: 1.6;
+}
+
+.securityGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+  margin-bottom: 4rem;
+}
+
+.securityCard {
+  background: white;
+  padding: 2rem;
+  border-radius: 16px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.08);
+  border: 1px solid rgba(0, 0, 0, 0.05);
+  transition: all 0.3s ease;
+}
+
+.securityCard:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 16px 48px rgba(0, 0, 0, 0.12);
+}
+
+.cardHeader {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.securityIcon {
+  font-size: 2rem;
+  width: 60px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(45deg, #28a745, #20c997);
+  border-radius: 12px;
+  box-shadow: 0 4px 16px rgba(40, 167, 69, 0.3);
+}
+
+.securityTitle {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: #1a1a2e;
+  margin: 0;
+}
+
+.securityDescription {
+  color: #6c757d;
+  line-height: 1.6;
+  margin-bottom: 1.5rem;
+}
+
+.securityDetails {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.securityDetail {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.5rem;
+  margin-bottom: 0.75rem;
+  font-size: 0.9rem;
+  color: #495057;
+}
+
+.checkIcon {
+  color: #28a745;
+  font-weight: 600;
+  margin-top: 0.1rem;
+  flex-shrink: 0;
+}
+
+/* Секция доверия */
+.trustSection {
+  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+  border-radius: 20px;
+  padding: 3rem 2rem;
+  text-align: center;
+  color: white;
+}
+
+.trustTitle {
+  font-size: 1.75rem;
+  font-weight: 600;
+  margin-bottom: 2rem;
+  color: white;
+}
+
+.trustBadges {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 2rem;
+  margin-bottom: 3rem;
+}
+
+.trustBadge {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  background: rgba(255, 255, 255, 0.1);
+  padding: 1.5rem;
+  border-radius: 12px;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(10px);
+}
+
+.badgeIcon {
+  font-size: 2rem;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(45deg, #ff6b35, #f7931e);
+  border-radius: 10px;
+  flex-shrink: 0;
+}
+
+.badgeTitle {
+  font-weight: 600;
+  font-size: 1rem;
+  margin-bottom: 0.25rem;
+}
+
+.badgeDesc {
+  font-size: 0.875rem;
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.privacyLinks {
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.privacyLink {
+  color: #00d4aa;
+  text-decoration: none;
+  font-weight: 500;
+  padding: 0.5rem 1rem;
+  border: 1px solid #00d4aa;
+  border-radius: 25px;
+  transition: all 0.3s ease;
+}
+
+.privacyLink:hover {
+  background: #00d4aa;
+  color: #1a1a2e;
+  text-decoration: none;
+  transform: translateY(-1px);
+}
+
+/* Мобильная адаптация */
+@media (max-width: 768px) {
+  .security {
+    padding: 60px 0;
+  }
+
+  .sectionTitle {
+    font-size: 2rem;
+  }
+
+  .securityGrid {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+
+  .securityCard {
+    padding: 1.5rem;
+  }
+
+  .cardHeader {
+    flex-direction: column;
+    text-align: center;
+    gap: 0.75rem;
+  }
+
+  .trustBadges {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  .trustSection {
+    padding: 2rem 1.5rem;
+  }
+
+  .privacyLinks {
+    flex-direction: column;
+    align-items: center;
+  }
+}
