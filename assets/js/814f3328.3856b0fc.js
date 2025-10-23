@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgrammar_ai=self.webpackChunkgrammar_ai||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\ud83c\udf89 Release ver1.0.0","permalink":"/blog/hello","unlisted":false,"date":"2025-10-23T00:00:00.000Z"}]}')}}]);

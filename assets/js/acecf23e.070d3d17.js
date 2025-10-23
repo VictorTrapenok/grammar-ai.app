@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgrammar_ai=self.webpackChunkgrammar_ai||[]).push([[903],{1912:a=>{a.exports=JSON.parse('{"blogBasePath":"/blog","blogTitle":"Blog","authorsListPath":"/blog/authors"}')}}]);

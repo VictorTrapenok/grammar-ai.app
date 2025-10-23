@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgrammar_ai=self.webpackChunkgrammar_ai||[]).push([[121],{8070:a=>{a.exports=JSON.parse('{"tags":[{"label":"release","permalink":"/blog/tags/release","count":1},{"label":"update","permalink":"/blog/tags/update","count":1},{"label":"android","permalink":"/blog/tags/android","count":1}]}')}}]);

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://grammar-ai.app/blog</id>
+    <title>Grammar AI — AI-Powered Grammar Correction &amp; Translation Blog</title>
+    <updated>2025-10-23T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://grammar-ai.app/blog"/>
+    <subtitle>Grammar AI — AI-Powered Grammar Correction &amp; Translation Blog</subtitle>
+    <icon>https://grammar-ai.app/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[🎉 Release ver1.0.0]]></title>
+        <id>https://grammar-ai.app/blog/hello</id>
+        <link href="https://grammar-ai.app/blog/hello"/>
+        <updated>2025-10-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[hello world]]></summary>
+        <content type="html"><![CDATA[<p>hello world</p>]]></content>
+        <author>
+            <name>Viktor Trapenok</name>
+            <uri>https://www.linkedin.com/in/victor-trapenok/</uri>
+        </author>
+        <category label="release" term="release"/>
+        <category label="update" term="update"/>
+        <category label="android" term="android"/>
+    </entry>
+</feed>

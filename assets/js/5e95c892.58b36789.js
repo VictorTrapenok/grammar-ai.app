@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgrammar_ai=self.webpackChunkgrammar_ai||[]).push([[647],{7121:(e,r,a)=>{a.r(r),a.d(r,{default:()=>l});a(6540);var s=a(4164),u=a(1213),c=a(7559),n=a(2831),t=a(781),i=a(4848);function l(e){return(0,i.jsx)(u.e3,{className:(0,s.A)(c.G.wrapper.docsPages),children:(0,i.jsx)(t.A,{children:(0,n.v)(e.route.routes)})})}}}]);
