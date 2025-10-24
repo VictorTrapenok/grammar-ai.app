@@ -12,8 +12,8 @@ rm -rf ./app-ai
 
 git clone https://github.com/VictorTrapenok/grammar-ai.app.git -b gh-pages
 
-mv ./app-ai/.git ./build/.git
-rm -rf ./app-ai
+mv ./grammar-ai.app/.git ./build/.git
+rm -rf ./grammar-ai.app
 cd build
 echo "grammar-ai.app" > CNAME
 git add .
